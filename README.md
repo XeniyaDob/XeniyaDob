@@ -10,8 +10,8 @@ I have some nice bullet points about me, check them out:
 - TBC
 ...
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,react" />
-  </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,react)](https://skillicons.dev)
+
+Reach me on
+[Linkedin](https://www.linkedin.com/in/xeniya-dobrogorskaya/)
