@@ -6,7 +6,7 @@ I have some nice bullet points about me, check them out:
 - :smiling_face_with_three_hearts: I adore creating projects to explore new Technologies
 - :sparkles: I am fascinated by how code can create a work of art
 - :mortar_board: Bachelor's Degree in Architecture & Design
-- :woman_artist: I feel Art vibe
+- :woman_artist: Bonus: 8 years of experience in Architecture & Design
 - TBC
 ...
 
