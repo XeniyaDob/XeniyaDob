@@ -14,4 +14,4 @@ I have some nice bullet points about me, check them out:
 [![My Skills](https://skillicons.dev/icons?i=css,html,js,react)](https://skillicons.dev)
 
 Reach me on
-[Linkedin](https://www.linkedin.com/in/xeniya-dobrogorskaya/){:target="_blank" rel="noopener"}
+[Linkedin](https://www.linkedin.com/in/xeniya-dobrogorskaya/){:target="_blank"}
