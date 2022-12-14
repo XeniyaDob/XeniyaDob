@@ -15,3 +15,5 @@ I have some nice bullet points about me, check them out:
 
 Reach me on
 [Linkedin](https://www.linkedin.com/in/xeniya-dobrogorskaya/)
+
+[My fresh React portfolio](https://xeniya.gor.sh/)
