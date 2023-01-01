@@ -13,11 +13,11 @@ I have some nice bullet points about me, check them out:
 - :sparkles: I am fascinated by how code can create a work of art
 - :mortar_board: Bachelor's Degree in Architecture & Design
 - :woman_artist: Bonus: 8 years of experience in Architecture & Design
-- TBC
-...
+- :woman_technologist: To be continued...
 
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,react)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,react,materialui)](https://skillicons.dev)
 
 Reach me on
 [Linkedin](https://www.linkedin.com/in/xeniya-dobrogorskaya/)
