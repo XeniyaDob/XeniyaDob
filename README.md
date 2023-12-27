@@ -13,7 +13,7 @@ I have some nice bullet points about me, check them out:
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,next,nodejs,mongodb,express,materialui,css,html&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,next,nodejs,mongodb,express,materialui,css,html)](https://skillicons.dev)
 
 Reach me on
 [Linkedin](https://www.linkedin.com/in/xeniya-dobrogorskaya/)
