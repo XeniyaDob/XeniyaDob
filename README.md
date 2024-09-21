@@ -2,14 +2,7 @@
 
 
 
-I have some nice bullet points about me, check them out:
-
-- :comet: Passionate Front-End Developer
-- :smiling_face_with_three_hearts: Enthusiastic about creating projects to explore new technologies
-- :sparkles: Fascinated by how code can transform into a work of art
-- :mortar_board: Bachelor's Degree in Architecture & Design
-- :woman_artist: Bonus: 8 years of experience in Architecture & Design
-- :woman_technologist: More to come...
+Innovative and detail-oriented Software Engineer/Fullstack developer with hands-on experience in JavaScript, React, and Next.js to create high-performance, responsive, accessible front-ends while also building robust back-ends using Node.js and RESTful APIs to support scalable, secure web applications.
 
 
 
